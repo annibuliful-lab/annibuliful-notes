@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PWPT preparing/crAPI/0.  Information gathering.md",
+                "file": "PWPT preparing/crAPI/2. Insecure Object Reference.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PWPT preparing/crAPI/0.  Information gathering.md",
+                "file": "PWPT preparing/crAPI/2. Insecure Object Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PWPT preparing/crAPI/0.  Information gathering.md",
+                "file": "PWPT preparing/crAPI/2. Insecure Object Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PWPT preparing/crAPI/0.  Information gathering.md"
+                "file": "PWPT preparing/crAPI/2. Insecure Object Reference.md"
               }
             }
           }
@@ -172,14 +172,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a63bd1577ed74d83",
+  "active": "9f733658373f36f2",
   "lastOpenFiles": [
+    "PWPT preparing/crAPI/1. Excessive information.md",
     "PWPT preparing/crAPI/2. Insecure Object Reference.md",
     "PWPT preparing/crAPI/0.  Information gathering.md",
     "reports/http_localhost_8888/_24-08-06_19-42-33.txt",
     "reports/http_localhost_8888",
     "reports",
-    "PWPT preparing/crAPI/1. Excessive information.md",
     "Pasted image 20240806193922.png",
     "PWPT preparing/crAPI/Assets/excessive-information.png",
     "PWPT preparing/crAPI/Assets",
