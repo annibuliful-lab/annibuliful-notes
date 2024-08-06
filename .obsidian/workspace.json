@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6a27476d6dac8b39",
+        "id": "2521a42b29a880a1",
         "type": "tabs",
         "children": [
           {
-            "id": "3c73c5738c53bda0",
+            "id": "db66764517cd0bf3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0d6846858572a424",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PWPT preparing/crAPI/2. Insecure Object Reference.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PWPT preparing/crAPI/1. Excessive information.md",
+                "file": "PWPT preparing/crAPI/2. Insecure Object Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PWPT preparing/crAPI/1. Excessive information.md",
+                "file": "PWPT preparing/crAPI/2. Insecure Object Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PWPT preparing/crAPI/1. Excessive information.md"
+                "file": "PWPT preparing/crAPI/2. Insecure Object Reference.md"
               }
             }
           }
@@ -147,11 +160,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3c73c5738c53bda0",
+  "active": "0d6846858572a424",
   "lastOpenFiles": [
-    "PWPT preparing/crAPI/Assets/Pasted image 20240806192714.png",
-    "PWPT preparing/crAPI/Assets",
     "PWPT preparing/crAPI/1. Excessive information.md",
+    "PWPT preparing/crAPI/2. Insecure Object Reference.md",
+    "PWPT preparing/crAPI/Assets/excessive-information.png",
+    "PWPT preparing/crAPI/Assets",
     "PWPT preparing/crAPI/README.md",
     "README.md",
     "PWPT preparing/crAPI",
