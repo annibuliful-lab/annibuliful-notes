@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PWPT preparing/crAPI/README.md",
+                "file": "PWPT preparing/crAPI/1. Excessive information.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PWPT preparing/crAPI/README.md",
+                "file": "PWPT preparing/crAPI/1. Excessive information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PWPT preparing/crAPI/README.md",
+                "file": "PWPT preparing/crAPI/1. Excessive information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PWPT preparing/crAPI/README.md"
+                "file": "PWPT preparing/crAPI/1. Excessive information.md"
               }
             }
           }
@@ -149,8 +149,11 @@
   },
   "active": "3c73c5738c53bda0",
   "lastOpenFiles": [
-    "README.md",
+    "PWPT preparing/crAPI/Assets/Pasted image 20240806192714.png",
+    "PWPT preparing/crAPI/Assets",
+    "PWPT preparing/crAPI/1. Excessive information.md",
     "PWPT preparing/crAPI/README.md",
+    "README.md",
     "PWPT preparing/crAPI",
     "PWPT preparing"
   ]
