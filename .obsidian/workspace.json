@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PWPT preparing/crAPI/2. Insecure Object Reference.md",
+                "file": "PWPT preparing/crAPI/3. Insecure Object Reference on past order detail.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PWPT preparing/crAPI/2. Insecure Object Reference.md",
+                "file": "PWPT preparing/crAPI/3. Insecure Object Reference on past order detail.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PWPT preparing/crAPI/2. Insecure Object Reference.md",
+                "file": "PWPT preparing/crAPI/3. Insecure Object Reference on past order detail.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PWPT preparing/crAPI/2. Insecure Object Reference.md"
+                "file": "PWPT preparing/crAPI/3. Insecure Object Reference on past order detail.md"
               }
             }
           }
@@ -149,9 +149,11 @@
   },
   "active": "9f733658373f36f2",
   "lastOpenFiles": [
+    "Pasted image 20240807211252.png",
+    "PWPT preparing/crAPI/2. Insecure Object Reference on get vehicle by id.md",
+    "PWPT preparing/crAPI/3. Insecure Object Reference on past order detail.md",
     "PWPT preparing/crAPI/Assets/IDOR.png",
     "PWPT preparing/crAPI/Drawing 2024-08-06 19.58.54.excalidraw.md",
-    "PWPT preparing/crAPI/2. Insecure Object Reference.md",
     "PWPT preparing/crAPI/1. Excessive information.md",
     "PWPT preparing/crAPI/0.  Information gathering.md",
     "reports/http_localhost_8888/_24-08-06_19-42-33.txt",
