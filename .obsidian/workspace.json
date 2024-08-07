@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "db66764517cd0bf3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PWPT preparing/crAPI/1. Excessive information.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d6846858572a424",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PWPT preparing/crAPI/2. Insecure Object Reference.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9f733658373f36f2",
             "type": "leaf",
             "state": {
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,13 +149,14 @@
   },
   "active": "9f733658373f36f2",
   "lastOpenFiles": [
-    "PWPT preparing/crAPI/1. Excessive information.md",
+    "PWPT preparing/crAPI/Assets/IDOR.png",
+    "PWPT preparing/crAPI/Drawing 2024-08-06 19.58.54.excalidraw.md",
     "PWPT preparing/crAPI/2. Insecure Object Reference.md",
+    "PWPT preparing/crAPI/1. Excessive information.md",
     "PWPT preparing/crAPI/0.  Information gathering.md",
     "reports/http_localhost_8888/_24-08-06_19-42-33.txt",
     "reports/http_localhost_8888",
     "reports",
-    "Pasted image 20240806193922.png",
     "PWPT preparing/crAPI/Assets/excessive-information.png",
     "PWPT preparing/crAPI/Assets",
     "PWPT preparing/crAPI/README.md",
