@@ -11,11 +11,9 @@
             "id": "9f733658373f36f2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "PWPT preparing/crAPI/2. Insecure Object Reference on get vehicle by id.md",
-                "mode": "source",
-                "source": false
+                "file": "PWPT preparing/crAPI/Assets/Pasted image 20240807215502.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PWPT preparing/crAPI/2. Insecure Object Reference on get vehicle by id.md",
+                "file": "PWPT preparing/crAPI/Assets/Pasted image 20240807215502.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PWPT preparing/crAPI/2. Insecure Object Reference on get vehicle by id.md",
+                "file": "PWPT preparing/crAPI/Assets/Pasted image 20240807215502.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PWPT preparing/crAPI/2. Insecure Object Reference on get vehicle by id.md"
+                "file": "PWPT preparing/crAPI/Assets/Pasted image 20240807215502.png"
               }
             }
           }
@@ -147,17 +145,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9f733658373f36f2",
+  "active": "a63bd1577ed74d83",
   "lastOpenFiles": [
+    "PWPT preparing/crAPI/2. Insecure Object Reference on get vehicle by id.md",
     "PWPT preparing/crAPI/3. Insecure Object Reference on past order detail.md",
     "PWPT preparing/crAPI/5. Insecure Object Reference on getting report.md",
     "PWPT preparing/crAPI/6.Broken Authentication on contact mechanic.md",
     "PWPT preparing/crAPI/7.Broken Function Level Authorization.md",
     "PWPT preparing/crAPI/8.Hard coded env file.md",
-    "Pasted image 20240807215502.png",
+    "PWPT preparing/crAPI/Assets/Pasted image 20240807215502.png",
     "PWPT preparing/crAPI/Assets/Pasted image 20240807214720.png",
     "PWPT preparing/crAPI/Assets/Pasted image 20240807214841.png",
-    "PWPT preparing/crAPI/2. Insecure Object Reference on get vehicle by id.md",
     "PWPT preparing/crAPI/Assets/Pasted image 20240807211252.png",
     "PWPT preparing/crAPI/Assets/Pasted image 20240807213744.png",
     "PWPT preparing/crAPI/Assets/Pasted image 20240807212822.png",
