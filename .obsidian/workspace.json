@@ -28,9 +28,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9f59928d2170afbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PWPT preparing/api-mid-course-lab/1. SQL injection on Register page.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PWPT preparing/api-mid-course-lab/README.md",
+                "file": "PWPT preparing/api-mid-course-lab/1. SQL injection on Register page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PWPT preparing/api-mid-course-lab/README.md",
+                "file": "PWPT preparing/api-mid-course-lab/1. SQL injection on Register page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PWPT preparing/api-mid-course-lab/README.md"
+                "file": "PWPT preparing/api-mid-course-lab/1. SQL injection on Register page.md"
               }
             }
           }
@@ -155,15 +167,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "4970a2adcf8ec89a",
+  "active": "9f59928d2170afbc",
   "lastOpenFiles": [
-    "PWPT preparing/crAPI/Assets/Pasted image 20240807215502.png",
-    "PWPT preparing/api-mid-course-lab/README.md",
-    "PWPT preparing/api-mid-course-lab",
     "PWPT preparing/crAPI/2. Insecure Object Reference on get vehicle by id.md",
+    "PWPT preparing/api-mid-course-lab/1. SQL injection on Register page.md",
+    "README.md",
+    "PWPT preparing/api-mid-course-lab/README.md",
+    "PWPT preparing/crAPI/Assets/Pasted image 20240807215502.png",
+    "PWPT preparing/api-mid-course-lab",
     "PWPT preparing/crAPI/3. Insecure Object Reference on past order detail.md",
     "PWPT preparing/crAPI/5. Insecure Object Reference on getting report.md",
     "PWPT preparing/crAPI/6.Broken Authentication on contact mechanic.md",
@@ -186,7 +201,6 @@
     "reports",
     "PWPT preparing/crAPI/Assets",
     "PWPT preparing/crAPI/README.md",
-    "README.md",
     "PWPT preparing/crAPI",
     "PWPT preparing"
   ]
